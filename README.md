@@ -1,12 +1,12 @@
 ### Olá, eu sou a Verônica Rizzi! 👋
 
-- 🔭 Atualmente trabalho em uma cafetería chamada -☕"KOF - King of the Fork"☕!
-- 📋 Atualmente estou aprendendo FrontEnd, Javascript, CSS, HTML, Infraestrutura...Full Stack!
->> Curso: Certified Tech Developer.
+- 🔭 Atualmente trabalho em um café/bike chamado -☕"KOF - King of the Fork"☕!
+- 📋 Estou aprendendo FrontEnd, Javascript, CSS, HTML, Infraestrutura, SQL ...Full Stack!
+    Neste Curso >> Curso: Certified Tech Developer (Digital House)
 - 🥰 Estou procurando dicas sobre JS, React, Typescript, Angular, AWS.
 - 💬 Me pergunte sobre comida veggie, 🌿 plantas e 🌎 mundo.
 - 📫 Contato: vevarizzi@gmail.com
-- ⚡ Fun fact: amo 🥑 avocado e natureza🌱💓!
+- ⚡ Fun fact: amo 🥑 avocado, natureza🌱💓 e artes/oficios manuais!
  <div>
   <a href="https://github.com/VevaRizzi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vevarizzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
