@@ -1,9 +1,9 @@
 ### Olá, eu sou a Verônica Rizzi! 👋
 
 - 🔭 Atualmente trabalho em um café/bike chamado -☕"KOF - King of the Fork"☕!
-- 📋 Estou aprendendo FrontEnd, Javascript, CSS, HTML, Infraestrutura, SQL ...Full Stack!
+- 📋 Estou aprendendo BackEnd, Banco de Dados, AWS, Infraestrutura ...Full Stack!
     Neste Curso >> Curso: Certified Tech Developer (Digital House)
-- 🥰 Estou procurando dicas sobre JS, React, Typescript, Angular, AWS.
+- 🥰 Estou procurando dicas sobre JS, React, Banco de Dados, Cybersegurança, AWS.
 - 💬 Me pergunte sobre comida veggie, 🌿 plantas e 🌎 mundo.
 - 📫 Contato: vevarizzi@gmail.com
 - ⚡ Fun fact: amo 🥑 avocado, natureza🌱💓 e artes/oficios manuais!
