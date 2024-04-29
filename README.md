@@ -23,9 +23,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
          
-    </div><br/>
   </div>
+</br>
 
+![Veva's GitHub stats](https://github-readme-stats.vercel.app/api?username=vevarizzi&show_icons=true&theme=dracula&count_private=true)
   
  <div>
   <a href="https://github.com/VevaRizzi">
