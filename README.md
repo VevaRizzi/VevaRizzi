@@ -2,9 +2,8 @@
 
 ### Olá, eu sou a Verônica Rizzi! 👋
 
-- 🔭 Atualmente sou Supervisora em um café/bike chamado -☕"KOF - King of the Fork"☕!
-- 📋 Estou em transição de carreira procurando minha primeira oportunidade junior na Área de Cloud/AWS!
-    > Cursando a trilha EXPLORER da RocktSeat
+- 🔭 Atualmente comece minha segunda graduação no curso de Big Data e Inteligência Analítica.
+- 📋 Estou em transição de carreira procurando minha primeira oportunidade junior na Área de Dados e Cloud/AWS!
 - 🥰 Estou procurando dicas sobre Python, Cybersegurança, AWS, Data Analytics/Science.
 - 💬 Me pergunte sobre comida veggie, 🌿 plantas e 🌎 mundo.
 - 📫 Contato: vevarizzidev@gmail.com
