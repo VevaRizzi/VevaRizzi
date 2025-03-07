@@ -4,10 +4,10 @@
 
 - 🔭 Atualmente comece minha segunda graduação no curso de Big Data e Inteligência Analítica.
 - 📋 Estou em transição de carreira procurando minha primeira oportunidade estágio/junior na Área de Dados e Cloud/AWS!
-- Certificações AWS 
-  > AWS Certified Solutions Architect – Associate
-  > AWS Certified Cloud Practitioner
-https://www.credly.com/users/veronica-rizzi/
+- Certificações AWS
+  - AWS Certified Solutions Architect – Associate
+  - AWS Certified Cloud Practitioner
+  - https://www.credly.com/users/veronica-rizzi/
 - 🥰 Estou procurando dicas sobre Python, Cybersegurança, AWS, Data Analytics/Science.
 - 💬 Me pergunte sobre comida veggie, 🌿 plantas e 🌎 mundo.
 - ⚡ Fun fact: amo 🥑 avocado, viajar, natureza🌱💓 e artes/oficios manuais!
